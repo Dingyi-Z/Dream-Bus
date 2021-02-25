@@ -1,40 +1,10 @@
-﻿key,full_name
-acres,Land Area (acres)
-hu_10,Housing Units (Census 2010)
-pc_own_10,Owner Occupied Homes (Census 2010)
-tot_pop_10,Total Population (Census 2010)
-pc_un5_10,Young Children - Age 0 to 4 (Census 2010)
-pc_un18_10,Youth Population - Age 0 to 17 (Census 2010)
-pc_ov64_10,Senior Population - Age 65 and Over (Census 2010)
-pc_wht_10,White (Census 2010)
-pc_afrm_10,Black or African American (Census 2010)
-pc_asn_10,Asian (Census 2010)
-pc_othm_10,Other Races or Multiracial (Census 2010)
-pc_hisp_10,Hispanic or Latino (Census 2010)
-hh_10,Total Households (Census 2010)
-fam_10,Family Households (Census 2010)
-pc_fmwc_10,Families with Children (Census 2010)
-pc_fhwc_10,Female Headed Families with Children (Census 2010)
-du_cty,Madison Dwelling Units
-asst_unts,Madison Subsidized Dwelling Units
-du_cmps,Campus Dwelling Units
-yrblt_mdn,Median Year Built
-prd_viol,Property Foreclosures
-avg_huval,Owner Occupied Houses: Average Value
-sqft_val,Owner Occupied Houses: Square Foot Value
-avg_c_hval,Condos: Average Value
-sqft_c_val,Condos: Square Foot Value
-avg_n_hval,Non-Owner Occupied Houses: Average Value
-sqft_n_val,Non-Owner Occupied Houses: Square Foot Value
-crm_pers,Reported Police Incidents: Person Related
-crm_prop,Reported Police Incidents: Property Related
-crm_scty,Reported Police Incidents: Society Related
-crash,Crashes
-prmry_ems,EMS Service Calls
-prmry_fire,Fire Service Calls
-cc_prvdrs,Childcare Providers
-cc_cpcty,Childcare Capacity
-cc_enrlmt,Childcare Enrollment
-pc_trst,Transit Stop Access
-trst_trps,Available Transit Service
-avg_stcnd,Pavement Condition
+﻿key,name,full_name
+pc_un5_10,children,Young Children - Age 0 to 4 (Census 2010)
+pc_un18_10,teenagers,Youth Population - Age 0 to 17 (Census 2010)
+pc_ov64_10,seniors,Senior Population - Age 65 and Over (Census 2010)
+pc_wht_10,white,White (Census 2010)
+pc_afrm_10,black,Black or African American (Census 2010)
+pc_asn_10,asian,Asian (Census 2010)
+pc_othm_10,otherraces,Other Races or Multiracial (Census 2010)
+pc_hisp_10,latino,Hispanic or Latino (Census 2010)
+trst_trps,transport,Available Transit Service
